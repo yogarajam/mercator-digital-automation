@@ -1,0 +1,4 @@
+com/mercator/digital/config/DriverManager.class
+com/mercator/digital/pages/LoginPage.class
+com/mercator/digital/pages/InventoryPage.class
+com/mercator/digital/model/Product.class
