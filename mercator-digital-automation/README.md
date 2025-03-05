@@ -1,3 +1,5 @@
+# mercator-digital-automation
+
 Mercator Digital Pre-Interview Automation Framework Documentation
 Overview
 This framework automates the following steps on https://www.saucedemo.com:
@@ -49,4 +51,4 @@ Running Tests
 - Alternatively, run `mvn test` from the command line.
 - The test runs on Chrome by default; change `browser.type` in `config.properties` to `firefox` or `edge` to test with other browsers.
 
-# mercator-digital-automation
+
